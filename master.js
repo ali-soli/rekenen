@@ -1,1 +1,1 @@
-console.log("master 5 / 5 =", 5 / 5);
+console.log("this is master branch");
